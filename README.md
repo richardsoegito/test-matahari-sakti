@@ -15,6 +15,7 @@ git clone https://github.com/richardsoegito/test-matahari-sakti.git
 Masuk ke folder project.
 
 cd repository
+
 2. Install Dependency PHP
 composer install
 
